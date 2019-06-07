@@ -2,10 +2,10 @@ import java.util.Arrays;
 import java.util.Hashtable;
 
 /**
- * PROBLEM : Implement an algorithm to determine if a string has all unique characters.
+ * PROBLEM 1 : Implement an algorithm to determine if a string has all unique characters.
  * What if you cannot use additionnal data structures?
  */
-class UniqueCharacter{
+class Problem1{
 
     public static void main(String[] args) {
         
@@ -15,7 +15,7 @@ class UniqueCharacter{
         if(hasUniqueCharSol1(str))
             System.out.println("The word '" + str + "' has UNIQUE characters");
 
-        else if(!hasUniqueCharSol1(str))
+        else 
             System.out.println("The word '" + str + "' has DUPLICATE characters");
     }
 
