@@ -2,15 +2,17 @@ import java.util.Hashtable;
 import java.util.Set;;
 
 /**
- * PROBLEM 2 : Given two strings, write a method to decide if one is a permutation of the other
+ * PROBLEM 2 : Check Permutation 
+ * 
+ * Given two strings, write a method to decide if one is a permutation of the other
  */
 public class Problem2{
 
     public static void main(String[] args) {
 
         // The strings to be compared
-        String str1 = "aafbcg";
-        String str2 = "bgcaaf";
+        String str1 = "aafbcj";
+        String str2 = "bagcaf";
 
         if(isPermut(str1, str2))
             System.out.println("They are permutations");

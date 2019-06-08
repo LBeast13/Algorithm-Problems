@@ -2,7 +2,9 @@ import java.util.Arrays;
 import java.util.Hashtable;
 
 /**
- * PROBLEM 1 : Implement an algorithm to determine if a string has all unique characters.
+ * PROBLEM 1 : Is Unique 
+ * 
+ * Implement an algorithm to determine if a string has all unique characters.
  * What if you cannot use additionnal data structures?
  */
 class Problem1{
