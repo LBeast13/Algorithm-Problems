@@ -25,7 +25,7 @@ public class Problem3{
     /**
      * SOLUTION 
      *  
-     * COMPLEXITY : O(n)
+     * Runtime Complexity : O(n)
      * 
      * The idea is to iterate the char array from the end in order to use
      * the blank spaces in the end as a buffer.

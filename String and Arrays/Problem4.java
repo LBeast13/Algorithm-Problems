@@ -29,7 +29,7 @@ public class Problem4 {
     /**
      * SOLUTION
      * 
-     * Complexity : O(n)
+     * Runtime Complexity : O(n)
      * 
      * The first thing to have in mind is DON'T COMPUTE ALL PERMUTATIONS !
      * Indeed that would be a O(n!) complexity what is awful.

@@ -24,7 +24,7 @@ class Problem1{
     /**
      * SOLUTION 1 : Using another data structure (Hashtable)
      * 
-     * Complexity = O(n)
+     * Runtime Complexity = O(n)
      * 
      * After parsing the String to a char array, we iterate the array
      * and we map each character as a key of the hashtable.

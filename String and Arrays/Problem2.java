@@ -23,7 +23,7 @@ public class Problem2{
     /**
      * SOLUTION 
      * 
-     * Complexity : O(n)
+     * Runtime Complexity : O(n)
      * 
      * First of all, the strings must be the same length.
      * WThen we can use a Hashtable which map each character to an integer value.
