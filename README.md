@@ -3,7 +3,11 @@ Hi everyone ! In this repository you can find all my solutions for the algorithm
 </br>Try to solve the problems too, each of the questions are at the beginning of the Problem files.
 Good luck ! 
 
-# Cracking the Coding Interview
+## Data Structures
+I have also implemented some data structures and used them for some algorithm problems :
+- [Linked List](https://github.com/LBeast13/Algorithm-Problems/tree/master/Linked%20Lists/LinkedList.java) 
+
+## Cracking the Coding Interview
 
 |                                                  Topic                                                 |                                                        Problems and Solution                                                              | 
 |:------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------|
@@ -15,4 +19,5 @@ Good luck !
 | [Strings and Arrays](https://github.com/LBeast13/Algorithm-Problems/tree/master/String%20and%20Arrays) | [**Problem 6** : String Compression](https://github.com/LBeast13/Algorithm-Problems/blob/master/String%20and%20Arrays/Problem6.java)      |
 | [Strings and Arrays](https://github.com/LBeast13/Algorithm-Problems/tree/master/String%20and%20Arrays) | [**Problem 7** : Rotate Matrix](https://github.com/LBeast13/Algorithm-Problems/blob/master/String%20and%20Arrays/Problem7.java)           |
 | [Strings and Arrays](https://github.com/LBeast13/Algorithm-Problems/tree/master/String%20and%20Arrays) | [**Problem 8** : Zero Matrix](https://github.com/LBeast13/Algorithm-Problems/blob/master/String%20and%20Arrays/Problem8.java)             |
-| [Strings and Arrays](https://github.com/LBeast13/Algorithm-Problems/tree/master/String%20and%20Arrays) | [**Problem 9** : String Rotation](https://github.com/LBeast13/Algorithm-Problems/blob/master/String%20and%20Arrays/Problem9.java)             |
+| [Strings and Arrays](https://github.com/LBeast13/Algorithm-Problems/tree/master/String%20and%20Arrays) | [**Problem 9** : String Rotation](https://github.com/LBeast13/Algorithm-Problems/blob/master/String%20and%20Arrays/Problem9.java)         |
+| [Linked Lists](https://github.com/LBeast13/Algorithm-Problems/tree/master/Linked%20Lists)              | [**Problem 10** : Remove Dups](https://github.com/LBeast13/Algorithm-Problems/blob/master/Linked%20Lists/Problem10.java)                  |
