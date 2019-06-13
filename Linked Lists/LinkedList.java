@@ -61,13 +61,40 @@ public class LinkedList{
      */
     public void display(){
         Node curr = head;
-        while(curr != null){
-            System.out.print(curr.data);
-            if(curr != last)
-                System.out.print(" --> ");
-            curr = curr.next;
+
+        if(head == null){
+            System.out.println("No result (Empty)");
         }
-        System.out.println();
+        else{
+            while(curr != null){
+                System.out.print(curr.data);
+                if(curr != last)
+                    System.out.print(" --> ");
+                curr = curr.next;
+            }
+            System.out.println();
+        }
+        
+    }
+
+    /**
+     * Print the list in the console from the specified node
+     * @param start The starting node for printing
+     */
+    public void displayFrom(Node start){
+        if(start == null){
+            System.out.println("No result (Empty)");
+        }
+        else{
+            while(start != null){
+                System.out.print(start.data);
+                if(start != last)
+                    System.out.print(" --> ");
+                start = start.next;
+            }
+            System.out.println();
+        }
+        
     }
 
     
