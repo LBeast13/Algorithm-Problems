@@ -2,7 +2,7 @@ import java.util.Hashtable;
 import java.util.Set;
 
 /**
- * PROBLEM 4 : Palindrome Permutation
+ * PROBLEM 1.4 : Palindrome Permutation
  * 
  * Given a string, write a function to check if it is a permutation of a palindrome.
  * A palindrome is a word or phrase that is the same forwars and backwards.
@@ -13,7 +13,7 @@ import java.util.Set;
  * Input : Tact Coa
  * Output : True (permutations: "taco cat", "atco cta" ...)
  */
-public class Problem4 {
+public class Problem1_4 {
 
     public static void main(String [] args){
 

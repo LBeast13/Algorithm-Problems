@@ -1,5 +1,5 @@
 /**
- * PROBLEM 9 : String Rotation
+ * PROBLEM 1.9 : String Rotation
  * 
  * Assume you have a method isSubstring which checks if one
  * word is a substring of another. 
@@ -9,7 +9,7 @@
  * EXAMPLE :
  * "waterbottle" is a rotation of "erbottlewat"
  */
-public class Problem9{
+public class Problem1_9{
 
     public static void main(String[] args){
         String str1 = "waterbottle";

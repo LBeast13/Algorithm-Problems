@@ -1,5 +1,5 @@
 /**
- * PROBLEM 5 : One Away
+ * PROBLEM 1.5 : One Away
  * 
  * There are three types of edits that can be performed on strings :
  *  - Insert a character
@@ -14,7 +14,7 @@
  * pale, bale -> true
  * pale, bake -> false
  */
-public class Problem5{
+public class Problem1_5{
 
     public static void main(String[] args){
 

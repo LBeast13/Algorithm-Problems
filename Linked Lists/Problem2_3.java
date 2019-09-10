@@ -1,5 +1,5 @@
 /**
- * PROBLEM 12 : Delete Middle node
+ * PROBLEM 2.3 : Delete Middle node
  * 
  * Implement an algorithm to delete a nde in the middle (ie., any node
  * but the first and last node, not necessarily the exact middle) of
@@ -10,7 +10,7 @@
  * Result: nothing is returned, but the new linked list looks like
  * a->b->d->e->f
  */
-public class Problem12{
+public class Problem2_3{
 
     public static void main(String[] args){
         

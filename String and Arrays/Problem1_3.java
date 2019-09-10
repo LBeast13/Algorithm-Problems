@@ -1,5 +1,5 @@
 /**
- * PROBLEM 3 : URLify 
+ * PROBLEM 1.3 : URLify 
  * 
  * Write a method to replace all spaces in a string with '%20'.
  * You may assume that the string has sufficient space at the end
@@ -12,7 +12,7 @@
  * Input : "Mr John Smith"
  * Output : "Mr%20John%Smith"
  */
-public class Problem3{
+public class Problem1_3{
 
     public static void main(String[] args){
 

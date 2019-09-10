@@ -1,5 +1,5 @@
 /**
- * PROBLEM 6 : String Compression
+ * PROBLEM 1.6 : String Compression
  * 
  * Implement a method to perform basic string compression using the counts
  * of repeated characters. If the "compressed" string would not become smaller
@@ -9,7 +9,7 @@
  * Input : aabcccccaaa
  * Output : a2b1c5a3
  */
-public class Problem6{
+public class Problem1_6{
 
     public static void main(String[] args){
 

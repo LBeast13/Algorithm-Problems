@@ -2,12 +2,12 @@ import java.util.Arrays;
 import java.util.Hashtable;
 
 /**
- * PROBLEM 1 : Is Unique 
+ * PROBLEM 1.1 : Is Unique 
  * 
  * Implement an algorithm to determine if a string has all unique characters.
  * What if you cannot use additionnal data structures?
  */
-class Problem1{
+class Problem1_1{
 
     public static void main(String[] args) {
         

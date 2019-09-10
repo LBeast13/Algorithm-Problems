@@ -1,12 +1,12 @@
 import java.util.HashSet;
 
 /**
- * PROBLEM 10 : Remove Dups
+ * PROBLEM 2.1 : Remove Dups
  * 
  * 1. Write code to remove duplicates from an unsorted linked list.
  * 2. How would you solve this problem if a temporary buffer is not allowed ? 
  */
-public class Problem10{
+public class Problem2_1{
 
     public static void main(String [] args){
 

@@ -2,11 +2,11 @@ import java.util.Hashtable;
 import java.util.Set;;
 
 /**
- * PROBLEM 2 : Check Permutation 
+ * PROBLEM 1.2 : Check Permutation 
  * 
  * Given two strings, write a method to decide if one is a permutation of the other
  */
-public class Problem2{
+public class Problem1_2{
 
     public static void main(String[] args) {
 
