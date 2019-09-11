@@ -64,6 +64,9 @@ public class StackMin{
      * @return the minimum element of the stack
      */
     public int min(){
+        if(this.top == null){
+            return Integer.MAX_VALUE; //error
+        }
         return this.top.subStackMin;
     }
 
