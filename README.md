@@ -4,7 +4,7 @@ Hi everyone ! In this repository you can find all my solutions for the algorithm
 Good luck ! 
 
 ## Data Structures
-I have also implemented some data structures and used them for some algorithm problems :
+I have also implemented some usual data structures and used them for some algorithm problems :
 - [Linked List](https://github.com/LBeast13/Algorithm-Problems/tree/master/Linked%20Lists/LinkedList.java) 
 - [Stack](https://github.com/LBeast13/Algorithm-Problems/tree/master/Stacks%20and%20Queues/Stack.java) 
 - [Queue](https://github.com/LBeast13/Algorithm-Problems/tree/master/Stacks%20and%20Queues/Queue.java) 
@@ -31,5 +31,6 @@ I have also implemented some data structures and used them for some algorithm pr
 | [Linked Lists](https://github.com/LBeast13/Algorithm-Problems/tree/master/Linked%20Lists)              | [**Problem 2.6** : Intersection](https://github.com/LBeast13/Algorithm-Problems/blob/master/Linked%20Lists/Problem2_7.java)                   |
 | [Linked Lists](https://github.com/LBeast13/Algorithm-Problems/tree/master/Linked%20Lists)              | [**Problem 2.7** : Loop Detection](https://github.com/LBeast13/Algorithm-Problems/blob/master/Linked%20Lists/Problem2_8.java)                 |
 | [Stacks and Queues](https://github.com/LBeast13/Algorithm-Problems/tree/master/Stacks%20and%20Queues)  | [**Problem 3.2** : Stack Min](https://github.com/LBeast13/Algorithm-Problems/blob/master/Stacks%20and%20Queues/StackMin.java)                 |
-| [Stacks and Queues](https://github.com/LBeast13/Algorithm-Problems/tree/master/Stacks%20and%20Queues)  | [**Problem 3.3** : Stack of Plates](https://github.com/LBeast13/Algorithm-Problems/blob/master/Stacks%20and%20Queues/SetOfStacks.java)                 |
-| [Stacks and Queues](https://github.com/LBeast13/Algorithm-Problems/tree/master/Stacks%20and%20Queues)  | [**Problem 3.4** : Queue via Stacks](https://github.com/LBeast13/Algorithm-Problems/blob/master/Stacks%20and%20Queues/QueueViaStacks.java)                 |
+| [Stacks and Queues](https://github.com/LBeast13/Algorithm-Problems/tree/master/Stacks%20and%20Queues)  | [**Problem 3.3** : Stack of Plates](https://github.com/LBeast13/Algorithm-Problems/blob/master/Stacks%20and%20Queues/SetOfStacks.java)        |
+| [Stacks and Queues](https://github.com/LBeast13/Algorithm-Problems/tree/master/Stacks%20and%20Queues)  | [**Problem 3.4** : Queue via Stacks](https://github.com/LBeast13/Algorithm-Problems/blob/master/Stacks%20and%20Queues/QueueViaStacks.java)    |
+| [Stacks and Queues](https://github.com/LBeast13/Algorithm-Problems/tree/master/Stacks%20and%20Queues)  | [**Problem 3.5** : Sort Stack](https://github.com/LBeast13/Algorithm-Problems/blob/master/Stacks%20and%20Queues/Problem3_5.java)              |
