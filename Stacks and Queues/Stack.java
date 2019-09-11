@@ -26,7 +26,7 @@ public class Stack<T>{
      * @param value the value to add
      */
     public void push(T value){
-        StackNode newNode = new StackNode<T>(value);
+        StackNode<T> newNode = new StackNode<T>(value);
         newNode.next = this.top;
         this.top = newNode;
     }
