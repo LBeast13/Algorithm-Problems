@@ -6,6 +6,8 @@ Good luck !
 ## Data Structures
 I have also implemented some data structures and used them for some algorithm problems :
 - [Linked List](https://github.com/LBeast13/Algorithm-Problems/tree/master/Linked%20Lists/LinkedList.java) 
+- [Stack](https://github.com/LBeast13/Algorithm-Problems/tree/master/Stacks%20and%20Queues/Stack.java) 
+- [Queue](https://github.com/LBeast13/Algorithm-Problems/tree/master/Stacks%20and%20Queues/Queue.java) 
 
 ## Cracking the Coding Interview
 
