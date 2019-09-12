@@ -8,6 +8,7 @@ I have also implemented some usual data structures and used them for some algori
 - [Linked List](https://github.com/LBeast13/Algorithm-Problems/tree/master/Linked%20Lists/LinkedList.java) 
 - [Stack](https://github.com/LBeast13/Algorithm-Problems/tree/master/Stacks%20and%20Queues/Stack.java) 
 - [Queue](https://github.com/LBeast13/Algorithm-Problems/tree/master/Stacks%20and%20Queues/Queue.java) 
+- [Graph](https://github.com/LBeast13/Algorithm-Problems/tree/master/Trees%20and%20Graphs/Graph.java) with [Nodes](https://github.com/LBeast13/Algorithm-Problems/tree/master/Trees%20and%20Graphs/Node.java)
 
 ## Cracking the Coding Interview
 
@@ -35,3 +36,4 @@ I have also implemented some usual data structures and used them for some algori
 | [Stacks and Queues](https://github.com/LBeast13/Algorithm-Problems/tree/master/Stacks%20and%20Queues)  | [**Problem 3.4** : Queue via Stacks](https://github.com/LBeast13/Algorithm-Problems/blob/master/Stacks%20and%20Queues/QueueViaStacks.java)    |
 | [Stacks and Queues](https://github.com/LBeast13/Algorithm-Problems/tree/master/Stacks%20and%20Queues)  | [**Problem 3.5** : Sort Stack](https://github.com/LBeast13/Algorithm-Problems/blob/master/Stacks%20and%20Queues/Problem3_5.java)              |
 | [Stacks and Queues](https://github.com/LBeast13/Algorithm-Problems/tree/master/Stacks%20and%20Queues)  | [**Problem 3.6** : Animal Shelter](https://github.com/LBeast13/Algorithm-Problems/blob/master/Stacks%20and%20Queues/Problem%203_6)            |
+| [Trees and Graphs](https://github.com/LBeast13/Algorithm-Problems/tree/master/Trees%20and%20Graphs)    | [**Problem 4.1** : Route Between Nodes](https://github.com/LBeast13/Algorithm-Problems/blob/master/Trees%20and%20Graphs/Problem4_1.java)      |
