@@ -10,7 +10,7 @@ I have also implemented some usual data structures and used them for some algori
 - [Queue](https://github.com/LBeast13/Algorithm-Problems/tree/master/Stacks%20and%20Queues/Queue.java) 
 - [Graph](https://github.com/LBeast13/Algorithm-Problems/tree/master/Trees%20and%20Graphs/Graph.java) with [Nodes](https://github.com/LBeast13/Algorithm-Problems/tree/master/Trees%20and%20Graphs/Node.java)
 
-## Cracking the Coding Interview
+## Problems
 
 |                                                  Topic                                                 |                                                        Problems and Solution                                                                  | 
 |:------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------|
