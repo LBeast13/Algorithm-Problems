@@ -3,12 +3,13 @@ Hi everyone ! In this repository you can find all my solutions for the algorithm
 </br>Try to solve the problems too, each of the questions are at the beginning of the Problem files.
 Good luck ! 
 
-## Data Structures
+## Data Structures & Bit Manipulation
 I have also implemented some usual data structures and used them for some algorithm problems :
 - [Linked List](https://github.com/LBeast13/Algorithm-Problems/tree/master/Linked%20Lists/LinkedList.java) 
 - [Stack](https://github.com/LBeast13/Algorithm-Problems/tree/master/Stacks%20and%20Queues/Stack.java) 
 - [Queue](https://github.com/LBeast13/Algorithm-Problems/tree/master/Stacks%20and%20Queues/Queue.java) 
 - [Graph](https://github.com/LBeast13/Algorithm-Problems/tree/master/Trees%20and%20Graphs/Graph.java) with [Nodes](https://github.com/LBeast13/Algorithm-Problems/tree/master/Trees%20and%20Graphs/Node.java)
+- [Bit Operations](https://github.com/LBeast13/Algorithm-Problems/tree/master/Bit%20Manipulation/BitManipulation.java)
 
 ## Problems
 
