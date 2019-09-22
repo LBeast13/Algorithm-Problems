@@ -6,6 +6,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - BitManipulation",
+            "request": "launch",
+            "mainClass": "BitManipulation"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Problem4_3",
             "request": "launch",
             "mainClass": "Problem4_3"
